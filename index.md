@@ -84,5 +84,6 @@ Francesco Amigoni(francesco.amigoni@polimi.it) - AIRLab, Politecnico di Milano, 
 ## Program Committee
 
 ## Funding and Support
-![DARKO](darkologo.png)!
+![DARKO](darkologo.png)
+
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017274 (DARKO)
