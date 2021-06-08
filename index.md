@@ -41,13 +41,13 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 6. Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
 7. Mirco Colosi - Robert Bosch GmbH, Stuttgart, Germany
 
-### World Caffe
+### World Café
 
 #### Discussion Topics
-1. How to perform a reference-free map quality assessment?
+1. How to perform reference-free map quality assessment?
 2. What characterises a good map?
 3. How to present a robotic map to the human operator?
-4. What is the basic spatial information that should be encoded in the (standardised) map?
+4. What is the basic spatial information that should be encoded in a (standardised) map?
 5. What domains/industries are in need of map standards?
 6. What domains/industries are in need of map quality assessment?
 
@@ -55,7 +55,7 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 ## Call for Papers/Posters
 ### Call
 TBD
-### Important Dats
+### Important Dates
 TBD
 ### Topics of Interest
 
@@ -81,4 +81,6 @@ Martin Magnusson (martin.magnusson@oru.se)- AASS Research Centre, Örebro Univer
 
 Francesco Amigoni(francesco.amigoni@polimi.it) - AIRLab, Politecnico di Milano, Milan, Italy
 
-## Program Commete
+## Program Committee
+
+## Funding and Support
