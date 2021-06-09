@@ -33,13 +33,21 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 |TBD          | Wrap UP          |
 
 ### Invited Speakers
-1. Giorgio Grisetti - RoCoCo lab, Sapienza University of Rome, Italy
-2. Luca Carlone - SPARK Lab, MIT, Cambridge MA, USA
-3. Max Pfingsthorn - OFFIS Institute for Information Technology, Oldenburg, Germany
-4. Naoki Akai - Graduate School of Engineering, Nagoya University, Japan
-5. Magnus Lindhé - Electrolux Home Care & Small Domestic Appliances, Stockholm, Sweden
-6. Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
-7. Mirco Colosi - Robert Bosch GmbH, Stuttgart, Germany
+
+#### Giorgio Grisetti - RoCoCo lab, Sapienza University of Rome, Italy
+TBD
+#### Luca Carlone - SPARK Lab, MIT, Cambridge MA, USA
+TBD
+#### Max Pfingsthorn - OFFIS Institute for Information Technology, Oldenburg, Germany
+TBD
+#### Naoki Akai - Graduate School of Engineering, Nagoya University, Japan
+![Naoki Akai](niai.png) **Title** Detection of Localization Failures with Probabilistic Modeling
+**Abstract** Almost all modules used for autonomous navigation rely on localization results. Hence, localization failures might result in autonomous navigation failures as well. To guarantee safety of the autonomous navigation, we are focusing on how to detect the localization failures automatically. In this talk, I present probabilistic modeling methods to estimate reliability of the localization result and to recognize misalignment between sensor measurements and map. These methods enable a robot to know whether localization has failed or not itself.
+**About** Naoki Akai received his B.S., M.S., and Ph.D degrees in Mechanical Engineering from Utsunomiya University, Japan, in 2012, 2013, and 2016, respectively. In 2016, he moved to Nagoya University. Since 2020, he has been an Assistant Professor at the Graduate School of Engineering, Nagoya University. His current research interests include localization, perception, and intelligent systems for autonomous  mobile robots, cars, and aerial robots. He is also interested in applying topological techniques to robotics applications.
+
+#### Magnus Lindhé - Electrolux Home Care & Small Domestic Appliances, Stockholm, Sweden
+#### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
+#### Mirco Colosi - Robert Bosch GmbH, Stuttgart, Germany
 
 ### World Café
 
