@@ -134,7 +134,7 @@ Tomasz Piotr Kucner (tomasz.kucner@oru.se)- AASS Research Centre, Örebro Univer
 Martin Magnusson (martin.magnusson@oru.se)- AASS Research Centre, Örebro University, Sweden
 
 |:-------------|:------------|
-| ![Martin Magnusson](mnmn.jpg) | Martin Magnusson is an associate professor at Örebro University. His research is concerned with localisation, mapping and 3D perception for mobile robots, with a particular interest in field applications and low-visibility scenarios. Recent work includes mapping and using flow data for mobile robots, and using heterogeneous map sources. He was a vice-chair of IEEE WG on 2D Map Data Representation and co-authored IEEE 1873-2015 - IEEE Standard for Robot Map Data Representation for Navigation, and is co-coordinating the euRobotics topic group on robotics for logistics and transport.|
+| ![Martin Magnusson](mnmn.jpg) |**About** Martin Magnusson is an associate professor at Örebro University. His research is concerned with localisation, mapping and 3D perception for mobile robots, with a particular interest in field applications and low-visibility scenarios. Recent work includes mapping and using flow data for mobile robots, and using heterogeneous map sources. He was a vice-chair of IEEE WG on 2D Map Data Representation and co-authored IEEE 1873-2015 - IEEE Standard for Robot Map Data Representation for Navigation, and is co-coordinating the euRobotics topic group on robotics for logistics and transport.|
 
 Francesco Amigoni(francesco.amigoni@polimi.it) - AIRLab, Politecnico di Milano, Milan, Italy
 
