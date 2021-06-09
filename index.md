@@ -134,13 +134,16 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 
 
 ### Martin Magnusson - AASS Research Centre, Örebro University, Sweden
+
 (martin.magnusson@oru.se)
 
 |:-------------|:------------|
 | ![Martin Magnusson](mnmn.jpg) |**About** Martin Magnusson is an associate professor at Örebro University. His research is concerned with localisation, mapping and 3D perception for mobile robots, with a particular interest in field applications and low-visibility scenarios. Recent work includes mapping and using flow data for mobile robots, and using heterogeneous map sources. He was a vice-chair of IEEE WG on 2D Map Data Representation and co-authored IEEE 1873-2015 - IEEE Standard for Robot Map Data Representation for Navigation, and is co-coordinating the euRobotics topic group on robotics for logistics and transport.|
 
 
-### Francesco Amigoni (francesco.amigoni@polimi.it) 
+### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
+
+(francesco.amigoni@polimi.it)
 
 |:-------------|:------------|
 | ![Francesco Amigoni](foai.jpg) | Francesco Amigoni - is an associate professor at Politecnico di Milano. His main research interests include autonomous mobile robotics and multiagent systems and, in particular, he has mainly addressed problems in map building and multirobot coordination. He contributed, as vice-chair of the Standard Working Group, to the development of the IEEE 1873-2015 Standard for Robot Map Data Representation for Navigation and he is now chair of the Standard Working Group that is developing an extension of the IEEE 1873-2015 Standard to 3D maps.|
