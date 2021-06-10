@@ -3,7 +3,7 @@ layout: default
 ---
 # How good is your map?
 ## About
-{: .text-justify}
+
 Compared to other branches of science and technology, robotics is relatively young. The field as we know it emerged somewhere around the early 1950s. Robotic mapping is even younger, and its history starts around the early 1980s. Despite its short history, robotic mapping has undergone great developments. Nowadays, robotic maps are fundamental for the operation of the majority, if not all, mobile robotic systems. However, despite the importance of the robotic maps, there is no common way to exchange the maps between different manufacturers' robotic platforms, neither there is a consensus regarding what defines a good map. Such a state of the field hampers the development of the field itself and fields depending on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics makes no exception. Thus standardisation and assessment (qualitative and, especially, quantitative) of maps are of paramount importance.
 
 ## Objectives
@@ -65,7 +65,7 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 **Abstract** Almost all modules used for autonomous navigation rely on localization results. Hence, localization failures might result in autonomous navigation failures as well. To guarantee safety of the autonomous navigation, we are focusing on how to detect the localization failures automatically. In this talk, I present probabilistic modeling methods to estimate reliability of the localization result and to recognize misalignment between sensor measurements and map. These methods enable a robot to know whether localization has failed or not itself.
 
 |:-------------|:------------|
-| ![Naoki Akai](niai.jpg) | **About** Naoki Akai received his B.S., M.S., and Ph.D degrees in Mechanical Engineering from Utsunomiya University, Japan, in 2012, 2013, and 2016, respectively. In 2016, he moved to Nagoya University. Since 2020, he has been an Assistant Professor at the Graduate School of Engineering, Nagoya University. His current research interests include localization, perception, and intelligent systems for autonomous  mobile robots, cars, and aerial robots. He is also interested in applying topological techniques to robotics applications.|
+| ![Naoki Akai](people/niai.jpg) | **About** Naoki Akai received his B.S., M.S., and Ph.D degrees in Mechanical Engineering from Utsunomiya University, Japan, in 2012, 2013, and 2016, respectively. In 2016, he moved to Nagoya University. Since 2020, he has been an Assistant Professor at the Graduate School of Engineering, Nagoya University. His current research interests include localization, perception, and intelligent systems for autonomous  mobile robots, cars, and aerial robots. He is also interested in applying topological techniques to robotics applications.|
 
 #### Magnus Lindhé - Electrolux Home Care & Small Domestic Appliances, Stockholm, Sweden
 **Title**
@@ -130,7 +130,7 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 (tomasz.kucner@oru.se)
 
 |:-------------|:------------|
-| ![Tomasz Kucner](tzkr.jpg) | Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.|
+| ![Tomasz Kucner](people/tzkr.jpg) | Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.|
 
 
 ### Martin Magnusson - AASS Research Centre, Örebro University, Sweden
@@ -138,7 +138,7 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 (martin.magnusson@oru.se)
 
 |:-------------|:------------|
-| ![Martin Magnusson](mnmn.jpg) |**About** Martin Magnusson is an associate professor at Örebro University. His research is concerned with localisation, mapping and 3D perception for mobile robots, with a particular interest in field applications and low-visibility scenarios. Recent work includes mapping and using flow data for mobile robots, and using heterogeneous map sources. He was a vice-chair of IEEE WG on 2D Map Data Representation and co-authored IEEE 1873-2015 - IEEE Standard for Robot Map Data Representation for Navigation, and is co-coordinating the euRobotics topic group on robotics for logistics and transport.|
+| ![Martin Magnusson](people/mnmn.jpg) |**About** Martin Magnusson is an associate professor at Örebro University. His research is concerned with localisation, mapping and 3D perception for mobile robots, with a particular interest in field applications and low-visibility scenarios. Recent work includes mapping and using flow data for mobile robots, and using heterogeneous map sources. He was a vice-chair of IEEE WG on 2D Map Data Representation and co-authored IEEE 1873-2015 - IEEE Standard for Robot Map Data Representation for Navigation, and is co-coordinating the euRobotics topic group on robotics for logistics and transport.|
 
 
 ### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
@@ -146,14 +146,14 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 (francesco.amigoni@polimi.it)
 
 |:-------------|:------------|
-| ![Francesco Amigoni](foai.jpg) | Francesco Amigoni - is an associate professor at Politecnico di Milano. His main research interests include autonomous mobile robotics and multiagent systems and, in particular, he has mainly addressed problems in map building and multirobot coordination. He contributed, as vice-chair of the Standard Working Group, to the development of the IEEE 1873-2015 Standard for Robot Map Data Representation for Navigation and he is now chair of the Standard Working Group that is developing an extension of the IEEE 1873-2015 Standard to 3D maps.|
+| ![Francesco Amigoni](people/foai.jpg) | Francesco Amigoni - is an associate professor at Politecnico di Milano. His main research interests include autonomous mobile robotics and multiagent systems and, in particular, he has mainly addressed problems in map building and multirobot coordination. He contributed, as vice-chair of the Standard Working Group, to the development of the IEEE 1873-2015 Standard for Robot Map Data Representation for Navigation and he is now chair of the Standard Working Group that is developing an extension of the IEEE 1873-2015 Standard to 3D maps.|
 ## Program Committee
 
 ## Funding and Support
-![DARKO](darkologo.png)
+![DARKO](logo/darko_logo.png)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017274 (DARKO)
 
-![NICE](NICE_loho.png)
+![NICE](logo/nice_logo.png)
 
-This project has received funding from the 
+This project has received funding from the
