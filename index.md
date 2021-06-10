@@ -133,7 +133,7 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 
 <img src="people/tzkr.jpg" alt="Tomasz Kucner" width="100"/>
 
- Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.
+**About** Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.
 
 ### Martin Magnusson - AASS Research Centre, Örebro University, Sweden
 
@@ -160,4 +160,4 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 ![NICE](logo/nice_logo.png)
 
-This project has received funding from the
+This project has received funding from the Knolwedge Foundation under  contract  number  XXXXXXXXXXX(NICE)
