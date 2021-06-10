@@ -39,24 +39,21 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 
 **Abstract**
 
-|:-------------|:------------|
-| | **About**|
+**About**
 
 #### Luca Carlone - SPARK Lab, MIT, Cambridge MA, USA
 **Title**
 
 **Abstract**
 
-|:-------------|:------------|
-|  |**About** |
+**About**
 
 #### Max Pfingsthorn - OFFIS Institute for Information Technology, Oldenburg, Germany
 **Title**
 
 **Abstract**
 
-|:-------------|:------------|
-| | **About**|
+**About**
 
 #### Naoki Akai - Graduate School of Engineering, Nagoya University, Japan
 
@@ -74,24 +71,21 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 
 **Abstract**
 
-|:-------------|:------------|
-|  | **About** |
+**About**
 
 #### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
 **Title**
 
 **Abstract**
 
-|:-------------|:------------|
-|  | **About** |
+**About**
 
 #### Mirco Colosi - Robert Bosch GmbH, Stuttgart, Germany
 **Title**
 
 **Abstract**
 
-|:-------------|:------------|
-|  | **About**|
+**About**
 
 ### World Café
 
@@ -127,25 +121,25 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 
 
 ## Organizers
-### Tomasz Piotr Kucner - AASS Research Centre, Örebro University, Sweden
-
-(tomasz.kucner@oru.se)
+**Tomasz Piotr Kucner**
+AASS Research Centre, Örebro University, Sweden
+tomasz.kucner@oru.se
 
 <img src="people/tzkr.jpg" alt="Tomasz Kucner" width="100"/>
 
 **About** Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.
 
-### Martin Magnusson - AASS Research Centre, Örebro University, Sweden
-
-(martin.magnusson@oru.se)
+**Martin Magnusson**
+AASS Research Centre, Örebro University, Sweden
+martin.magnusson@oru.se
 
 <img src="people/mnmn.jpg" alt="Martin Magnusson" width="100"/>
 
 **About** Martin Magnusson is an associate professor at Örebro University. His research is concerned with localisation, mapping and 3D perception for mobile robots, with a particular interest in field applications and low-visibility scenarios. Recent work includes mapping and using flow data for mobile robots, and using heterogeneous map sources. He was a vice-chair of IEEE WG on 2D Map Data Representation and co-authored IEEE 1873-2015 - IEEE Standard for Robot Map Data Representation for Navigation, and is co-coordinating the euRobotics topic group on robotics for logistics and transport.
 
-### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
-
-(francesco.amigoni@polimi.it)
+**Francesco Amigoni**
+AIRLab, Politecnico di Milano, Milan, Italy
+francesco.amigoni@polimi.it
 
  <img src="people/foai.jpg" alt="Francesco Amigoni" width="100"/>
 
