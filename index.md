@@ -153,3 +153,7 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 ![DARKO](darkologo.png)
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017274 (DARKO)
+
+![NICE](NICE_loho.png)
+
+This project has received funding from the 
