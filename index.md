@@ -162,4 +162,4 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 <img src="logo/nice_logo.png" alt="NiCE" width="100"/>
 
-This project has received funding from the Knolwedge Foundation under  contract  number  XXXXXXXXXXX(NICE)
+This project has received funding from the Knolwedge Foundation under  contract  number 20200247(NICE)
