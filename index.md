@@ -42,11 +42,14 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 **About**
 
 #### Luca Carlone - SPARK Lab, MIT, Cambridge MA, USA
-**Title**
+**Title** New World Models and How to Build Them: 3D Dynamic Scene Graphs and Certifiable Perception for Robots and Autonomous Vehicles
 
-**Abstract**
+**Abstract** Perception algorithms are key components of modern autonomous systems, from self-driving vehicles to autonomous robots and drones. For instance, for a self-driving vehicle, perception algorithms provide functionalities such as estimating the state of the vehicle, building a map of obstacles in its surroundings, and detecting and tracking external objects and pedestrians. In this talk, I present a new hierarchical map representation, namely a 3D Dynamic Scene Graph, that provides a general and expressive model for hierarchical decision-making, human-robot interaction, prediction, and long-term autonomy. I also introduce the first generation of Spatial Perception Engines, that extend the traditional notions of mapping and SLAM, and allow a robot to build a “mental model” of the environment, including spatial concepts (e.g., humans, objects, rooms, buildings) and their relations at multiple levels of abstraction. I then focus on robustness and safety assurance for autonomous systems and discuss ongoing efforts towards the design of certifiable perception algorithms (which achieve extreme robustness to outliers and provide performance guarantees), and system-level monitoring of perception systems (which can detect off-nominal behavior in complex perception systems).
 
-**About**
+
+<img src="people/laca.jpg" alt="Luca Carlone" width="100"/>
+
+**About** Luca Carlone is the Leonardo Career Development Assistant Professor in the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology, and a Principal Investigator in the Laboratory for Information & Decision Systems (LIDS). He received his PhD from the Polytechnic University of Turin in 2012. He joined LIDS as a postdoctoral associate (2015) and later as a Research Scientist (2016), after spending two years as a postdoctoral fellow at the Georgia Institute of Technology (2013-2015). His research interests include nonlinear estimation, numerical and distributed optimization, and probabilistic inference, applied to sensing, perception, and decision-making in single and multi-robot systems. His work includes seminal results on certifiably correct algorithms for localization and mapping, as well as approaches for visual-inertial navigation and distributed mapping. He is a recipient of the Best Paper Award in Robot Vision at ICRA’20, the 2020 Honorable Mention from the IEEE Robotics and Automation Letters, the Track Best Paper award at the 2021 IEEE Aerospace Conference, the 2017 Transactions on Robotics King-Sun Fu Memorial Best Paper Award, the Best Paper Award at WAFR’16, the Best Student Paper Award at the 2018 Symposium on VLSI Circuits, and he was best paper finalist at RSS’15. He is also a recipient of the NSF CAREER Award (2021), the RSS Early Career Award (2020), the Google Daydream (2019) and the Amazon Research Award (2020), and the MIT AeroAstro Vickie Kerrebrock Faculty Award (2020). At MIT, he teaches “Robotics: Science and Systems,” the introduction to robotics for MIT undergraduates, and he created the graduate-level course “Visual Navigation for Autonomous Vehicles”, which covers mathematical foundations and fast C++ implementations of spatial perception algorithms for drones and autonomous vehicles.
 
 #### Max Pfingsthorn - OFFIS Institute for Information Technology, Oldenburg, Germany
 **Title**
@@ -146,12 +149,17 @@ francesco.amigoni@polimi.it
  **About** Francesco Amigoni is an associate professor at Politecnico di Milano. His main research interests include autonomous mobile robotics and multiagent systems and, in particular, he has mainly addressed problems in map building and multirobot coordination. He contributed, as vice-chair of the Standard Working Group, to the development of the IEEE 1873-2015 Standard for Robot Map Data Representation for Navigation and he is now chair of the Standard Working Group that is developing an extension of the IEEE 1873-2015 Standard to 3D maps.
 
 ## Program Committee
+**Matteo Luperto** AIS Lab, University of Milan, Italy
+
+**Francesco Verdoja** Intelligent Robotics, Aalto University, Finland
+
 
 ## Funding and Support
-![DARKO](logo/darko_logo.png)
+<img src="logo/darko_logo.png" alt="DARKO" width="100"/>
+
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017274 (DARKO)
 
-![NICE](logo/nice_logo.png)
+<img src="logo/nice_logo.png" alt="NiCE" width="100"/>
 
 This project has received funding from the Knolwedge Foundation under  contract  number  XXXXXXXXXXX(NICE)
