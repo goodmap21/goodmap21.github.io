@@ -2,6 +2,9 @@
 layout: default
 ---
 # How good is your map?
+
+Maps are fundamental for the operation of most, if not all, mobile robotic systems. Even though it is a young field compared to other branches of science and technology, robotic mapping has undergone great developments. However, despite the importance of robotic maps, there is no consensus regarding what defines a good map, nor is there a common way to exchange maps between different manufacturers’ robotic platforms. These shortcomings hamper the development of the field of mapping for mobile robots as well as other fields that depend on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics is no exception. Thus standardisation and assessment -- qualitative and, especially, quantitative -- of maps are of paramount importance.
+
 ## About
 
 Compared to other branches of science and technology, robotics is relatively young. The field as we know it emerged somewhere around the early 1950s. Robotic mapping is even younger, and its history starts around the early 1980s. Despite its short history, robotic mapping has undergone great developments. Nowadays, robotic maps are fundamental for the operation of the majority, if not all, mobile robotic systems. However, despite the importance of the robotic maps, there is no common way to exchange the maps between different manufacturers' robotic platforms, neither there is a consensus regarding what defines a good map. Such a state of the field hampers the development of the field itself and fields depending on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics makes no exception. Thus standardisation and assessment (qualitative and, especially, quantitative) of maps are of paramount importance.
@@ -77,11 +80,16 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 **About**
 
 #### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
-**Title**
+**Title** Standardizing robot map representations
 
-**Abstract**
+**Abstract** The availability of maps of environments in which they operate enables several tasks for autonomous robots. The IEEE Robotics and Automation Society has published a standard, called IEEE 1873-2015 Robot Map Data Representation for Navigation, that defines a common representation for 2D robot maps intended to facilitate interoperability among navigating robots. The standard is being currently extended to represent 3D maps.
+The talk will survey these efforts, and those from other standard development organizations, in order to provide a picture of the current standardization activities relative to representations of robot maps.
 
-**About**
+<img src="people/foai.jpg" alt="Francesco Amigoni" width="100"/>
+
+**About** Francesco Amigoni is professor at Politecnico di Milano (Italy), where he had previously been assistant professor and associate professor. He has been vice-chair of the Standard Working Group that developed the IEEE 1873-2015 Standard for Robot Map Data Representation for Navigation and he he is now chair of the Standard Working Group that is developing an extension of the standard to 3D maps. His main research interests are in Autonomous Robotics (multirobot systems, mapping, anomaly detection) and in Artificial Intelligence (multiagent systems, distributed decision making, and distributed optimization).
+
+
 
 #### Mirco Colosi - Robert Bosch GmbH, Stuttgart, Germany
 **Title**
