@@ -163,11 +163,11 @@ francesco.amigoni@polimi.it
 
 
 ## Funding and Support
-<img src="logo/darko_logo.png" alt="DARKO" width="100"/>
+<img src="logo/darko_logo.png" alt="DARKO" width="300"/>
 
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017274 (DARKO)
 
-<img src="logo/nice_logo.png" alt="NiCE" width="100"/>
+<img src="logo/nice_logo.png" alt="NiCE" width="300"/>
 
 This project has received funding from the Knolwedge Foundation under  contract  number 20200247(NICE)
