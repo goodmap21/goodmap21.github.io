@@ -123,13 +123,13 @@ These contributions further advance SLAM towards a mature research field as they
 
 ## Call for Papers/Posters
 
-### Call Details
+### Summary
 
 **Submission Deadline**: 2021-08-15
 
 **Notification**: 2021-08-21
 
-**Submission Link**: https://easychair.org/conferences/?conf=goodmap2021
+**Submission Link**: [https://easychair.org/conferences/?conf=goodmap2021](https://easychair.org/conferences/?conf=goodmap2021)
 
 ### Call
 Maps are fundamental for the operation of most, if not all, mobile robotic systems. Even though it is a young field compared to other branches of science and technology, robotic mapping has undergone great developments. However, despite the importance of robotic maps, there is no consensus regarding what defines a good map, nor is there a common way to exchange maps between different manufacturers’ robotic platforms. These shortcomings hamper the development of the field of mapping for mobile robots as well as other fields that depend on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics is no exception. Thus standardisation and assessment -- qualitative and, especially, quantitative -- of maps are of paramount importance.
@@ -154,7 +154,7 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 
 ### Information for Authors
 - All submissions will be reviewed (single-blind) by the program committee.
-- Please use the IEEE template(https://www.ieee.org/conferences/publishing/templates.html)
+- Please use the IEEE template [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 - Maximum: 2 pages (excluding references)
 - For the final presentation, a poster will be required.
 
