@@ -61,6 +61,13 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 
 **About**
 
+#### Tomasz Piotr Kucner - OFFIS Institute for Information Technology, Oldenburg, Germany
+**Title** Reference Free Map Quality Assessment
+
+**Abstract**
+
+**About** Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.
+
 #### Naoki Akai - Graduate School of Engineering, Nagoya University, Japan
 
 **Title** Detection of Localization Failures with Probabilistic Modeling
@@ -115,10 +122,17 @@ These contributions further advance SLAM towards a mature research field as they
 
 
 ## Call for Papers/Posters
+
+### Call Details
+**Submission Deadline**: 2021-08-15
+**Notification**: 2021-08-21
+**Submission Link**: https://easychair.org/conferences/?conf=goodmap2021
+
 ### Call
-TBD
-### Important Dates
-TBD
+Maps are fundamental for the operation of most, if not all, mobile robotic systems. Even though it is a young field compared to other branches of science and technology, robotic mapping has undergone great developments. However, despite the importance of robotic maps, there is no consensus regarding what defines a good map, nor is there a common way to exchange maps between different manufacturers’ robotic platforms. These shortcomings hamper the development of the field of mapping for mobile robots as well as other fields that depend on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics is no exception. Thus standardisation and assessment -- qualitative and, especially, quantitative -- of maps are of paramount importance.
+
+We warmly welcome contributions of papers targeting the workshop's scope, which includes but is not limited to the following topics:
+
 ### Topics of Interest
 
 In this workshop, we will address the following (non-exhaustive) list of topics:
@@ -134,6 +148,12 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 * Trustworthy AI and Standardisation
 * Groundtruth Generation for Map Quality Assessment
 * Map Standardisation in Industrial Applications
+
+### Information for Authors
+- All submissions will be reviewed (single-blind) by the program committee.
+- Please use the IEEE template(https://www.ieee.org/conferences/publishing/templates.html)
+- Maximum: 2 pages (excluding references)
+- For the final presentation, a poster will be required.
 
 
 ## Organizers
