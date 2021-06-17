@@ -61,7 +61,7 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 
 **About**
 
-#### Tomasz Piotr Kucner - OFFIS Institute for Information Technology, Oldenburg, Germany
+#### Tomasz Piotr Kucner - AASS Research Centre, Örebro University, Sweden
 **Title** Reference Free Map Quality Assessment
 
 **Abstract**
