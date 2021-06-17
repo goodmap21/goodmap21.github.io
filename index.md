@@ -21,19 +21,23 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 ## Workshop Format
 ### Program
 
-| EDT/CEST/JST| Event            |
-|:------------|:-----------------|
-|TBD          |Opening           |
-|TBD          |Invited talk 1    |
-|TBD          |Invited talk 2    |
-|TBD          |Invited talk 3    |
-|TBD          |**Break**         |
-|TBD          |Invited talk 4    |
-|TBD          |Invited talk 5    |
-|TBD          |Invited talk 6    |
-|TBD          |**Poster Session**|
-|TBD          |World Caffe       |
-|TBD          | Wrap UP          |
+|EEST |CEST |	JST |	EDT |                |
+|Helsinki|Stockholm|Tokyo| Cambridge     |             |
+|:---:|:---:|:---:|:---:|:-------------------|
+|10:00|09:00|16:00|03:00|	Opening            |
+|10:30|09:30|16:30|03:30|	Naoki Akai         |
+|11:00|10:00|17:00|04:00|	Giorgio Grisetti   |
+|11:30|10:30|17:30|04:30|	Coffe Break/ Poster session   |
+|12:00|11:00|18:00|05:00|	Max Pfingsthorn|
+|12:30|11:30|18:30|05:30|	Magnus Lindhé|
+|13:00|12:00|19:00|06:00| Lunch/ Poster Session |
+|14:00|13:00|20:00|07:00|	Francesco Amigoni |
+|14:30|13:30|20:30|07:30|	Mirco Colosi|
+|15:00|14:00|21:00|08:00|	Tomasz Kucner|
+|15:30|14:30|21:30|08:30|	Luca Carlone|
+|16:00|15:00|22:00|09:00|	World cafe|
+|17:00|16:00|23:00|10:00|	Wrap up|
+
 
 ### Invited Speakers
 
@@ -65,6 +69,8 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 **Title** Reference Free Map Quality Assessment
 
 **Abstract**
+
+<img src="people/tzkr.jpg" alt="Tomasz Kucner" width="100"/>
 
 **About** Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.
 
