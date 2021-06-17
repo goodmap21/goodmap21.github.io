@@ -73,11 +73,13 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 **About** Naoki Akai received his B.S., M.S., and Ph.D degrees in Mechanical Engineering from Utsunomiya University, Japan, in 2012, 2013, and 2016, respectively. In 2016, he moved to Nagoya University. Since 2020, he has been an Assistant Professor at the Graduate School of Engineering, Nagoya University. His current research interests include localization, perception, and intelligent systems for autonomous  mobile robots, cars, and aerial robots. He is also interested in applying topological techniques to robotics applications.
 
 #### Magnus Lindhé - Electrolux Home Care & Small Domestic Appliances, Stockholm, Sweden
-**Title**
+**Title** A consumer robot perspective on map quality
 
-**Abstract**
+**Abstract** The Electrolux Pure i9 series of robotic vacuum cleaners was launched in 2017 and we now have more than 100 000 connected robots globally. I will briefly introduce the 3D laser scanner on the robot, and the map format that the robots use to report every cleaning session to our cloud servers. I will then outline some current challenges that we see in map quality assessment, both from the perspective of the user impression as well as what the robot needs. Finally, I will comment on how map standardization could be useful for our application.
 
-**About**
+<img src="people/male.jpg" alt="Magnus Lindhé" width="100"/>
+
+**About** Magnus Lindhé got his PhD in automatic control, applied to robotics, from the KTH Royal Institute of Technology in 2012. Since then, he has worked at Electrolux in Stockholm, with navigation and planning for robotic vacuum cleaners. He was recently appointed manager of the advanced development team in robotics, which is now recruiting for a specialist in computer vision and/or machine learning.
 
 #### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
 **Title** Standardizing robot map representations
