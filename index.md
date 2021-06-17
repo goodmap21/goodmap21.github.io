@@ -124,8 +124,11 @@ These contributions further advance SLAM towards a mature research field as they
 ## Call for Papers/Posters
 
 ### Call Details
+
 **Submission Deadline**: 2021-08-15
+
 **Notification**: 2021-08-21
+
 **Submission Link**: https://easychair.org/conferences/?conf=goodmap2021
 
 ### Call
