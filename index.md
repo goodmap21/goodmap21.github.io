@@ -159,14 +159,20 @@ These contributions further advance SLAM towards a mature research field as they
 
 ### World Café
 
-#### Discussion Topics
-1. How to perform reference-free map quality assessment?
-2. What characterises a good map?
-3. How to present a robotic map to the human operator?
-4. What is the basic spatial information that should be encoded in a (standardised) map?
-5. What domains/industries are in need of map standards?
-6. What domains/industries are in need of map quality assessment?
+#### Discussion Format
+To encourage and stimulate the discussion during the workshop, we will use [World Cafe Method](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). World Cafe method is designed to enable successful discussion within a large group of participants though splitting them into small focused groups discussing one particular question, at the end the results of the discussion are presented to the whole audience.
 
+During this workshop the participants will be split into four equal groups and each group will discuss one of the questions listed bellow for 15 minutes and then switch to another one. At the end of the workshop moderators responsible for each question will present the results of the discussion to the whole audience.
+
+#### Discussion Topics
+1. What characterizes a good map and how to assess them
+2. How to present information encoded in a robotic map in a human readable format?
+3. What is the basic spatial information that should be encoded in a (standardised) map?
+4. What domains/industries are in need of map standards and map quality assessment?
+
+#### Outcome
+
+We want that this workshop in general and the discussion in particular to impact the broader robotic community. To achieve this, we have decided to write a white/position paper outlining the importance of the map standardization and quality assessment in robotics. The planed paper will also contain the list of open research questions related to the problems discussed during this workshop. 
 
 ## Call for Papers/Posters
 
@@ -238,7 +244,6 @@ francesco.amigoni@polimi.it
 **Matteo Luperto** AIS Lab, University of Milan, Italy
 
 **Francesco Verdoja** Intelligent Robotics, Aalto University, Finland
-
 
 ## Funding and Support
 <img src="logo/darko_logo.png" alt="DARKO" width="300"/>
