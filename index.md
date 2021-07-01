@@ -42,86 +42,118 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 ### Invited Speakers
 
 #### Giorgio Grisetti - RoCoCo lab, Sapienza University of Rome, Italy
-**Title**
-
-**Abstract**
-
-**About**
-
-#### Luca Carlone - SPARK Lab, MIT, Cambridge MA, USA
-**Title** New World Models and How to Build Them: 3D Dynamic Scene Graphs and Certifiable Perception for Robots and Autonomous Vehicles
-
+**Title** TBD
 
 <details>
-  <summary>**Abstract**</summary>  
+  <summary>Abstract</summary>
+  TBD
+  </details>
 
+<details>
+  <summary>About</summary>
+  TBD
+  </details>
+
+
+#### Luca Carlone - SPARK Lab, MIT, Cambridge MA, USA
+<img src="people/laca.jpg" alt="Luca Carlone" width="100"/>
+
+**Title** New World Models and How to Build Them: 3D Dynamic Scene Graphs and Certifiable Perception for Robots and Autonomous Vehicles
+
+<details>
+  <summary>Abstract</summary>  
  Perception algorithms are key components of modern autonomous systems, from self-driving vehicles to autonomous robots and drones. For instance, for a self-driving vehicle, perception algorithms provide functionalities such as estimating the state of the vehicle, building a map of obstacles in its surroundings, and detecting and tracking external objects and pedestrians. In this talk, I present a new hierarchical map representation, namely a 3D Dynamic Scene Graph, that provides a general and expressive model for hierarchical decision-making, human-robot interaction, prediction, and long-term autonomy. I also introduce the first generation of Spatial Perception Engines, that extend the traditional notions of mapping and SLAM, and allow a robot to build a “mental model” of the environment, including spatial concepts (e.g., humans, objects, rooms, buildings) and their relations at multiple levels of abstraction. I then focus on robustness and safety assurance for autonomous systems and discuss ongoing efforts towards the design of certifiable perception algorithms (which achieve extreme robustness to outliers and provide performance guarantees), and system-level monitoring of perception systems (which can detect off-nominal behavior in complex perception systems).
 </details>
 
-<img src="people/laca.jpg" alt="Luca Carlone" width="100"/>
-
 <details>
-  <summary>**About**</summary>
+  <summary>About</summary>
    Luca Carlone is the Leonardo Career Development Assistant Professor in the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology, and a Principal Investigator in the Laboratory for Information & Decision Systems (LIDS). He received his PhD from the Polytechnic University of Turin in 2012. He joined LIDS as a postdoctoral associate (2015) and later as a Research Scientist (2016), after spending two years as a postdoctoral fellow at the Georgia Institute of Technology (2013-2015). His research interests include nonlinear estimation, numerical and distributed optimization, and probabilistic inference, applied to sensing, perception, and decision-making in single and multi-robot systems. His work includes seminal results on certifiably correct algorithms for localization and mapping, as well as approaches for visual-inertial navigation and distributed mapping. He is a recipient of the Best Paper Award in Robot Vision at ICRA’20, the 2020 Honorable Mention from the IEEE Robotics and Automation Letters, the Track Best Paper award at the 2021 IEEE Aerospace Conference, the 2017 Transactions on Robotics King-Sun Fu Memorial Best Paper Award, the Best Paper Award at WAFR’16, the Best Student Paper Award at the 2018 Symposium on VLSI Circuits, and he was best paper finalist at RSS’15. He is also a recipient of the NSF CAREER Award (2021), the RSS Early Career Award (2020), the Google Daydream (2019) and the Amazon Research Award (2020), and the MIT AeroAstro Vickie Kerrebrock Faculty Award (2020). At MIT, he teaches “Robotics: Science and Systems,” the introduction to robotics for MIT undergraduates, and he created the graduate-level course “Visual Navigation for Autonomous Vehicles”, which covers mathematical foundations and fast C++ implementations of spatial perception algorithms for drones and autonomous vehicles.
 </details>
 #### Max Pfingsthorn - OFFIS Institute for Information Technology, Oldenburg, Germany
-**Title**
+**Title** TBD
 
-**Abstract**
+<details>
+  <summary>Abstract</summary>
+  TBD
+  </details>
 
-**About**
+<details>
+  <summary>About</summary>
+  TBD
+  </details>
+
 
 #### Tomasz Piotr Kucner - AASS Research Centre, Örebro University, Sweden
-**Title** Reference Free Map Quality Assessment
-
-**Abstract**
 
 <img src="people/tzkr.jpg" alt="Tomasz Kucner" width="100"/>
 
-**About** Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.
+**Title** Reference Free Map Quality Assessment
 
+<details>
+  <summary>Abstract</summary>
+  TBD
+  </details>
+
+<details>
+  <summary>About</summary>
+ Tomasz Kucner is a postdoc at Örebro University. His work is focused on the problems of mapping, semantic mapping and navigation, with a focus on building maps of dynamics and map quality assessment. His recent work addresses problems of building and applying spatial models of dynamics as well as  He is a vice-chair of IEEE WG on 3D Map Data Representation.
+  </details>
 #### Naoki Akai - Graduate School of Engineering, Nagoya University, Japan
+<img src="people/niai.jpg" alt="Naoki Akai" width="100"/>
 
 **Title** Detection of Localization Failures with Probabilistic Modeling
 
-**Abstract** Almost all modules used for autonomous navigation rely on localization results. Hence, localization failures might result in autonomous navigation failures as well. To guarantee safety of the autonomous navigation, we are focusing on how to detect the localization failures automatically. In this talk, I present probabilistic modeling methods to estimate reliability of the localization result and to recognize misalignment between sensor measurements and map. These methods enable a robot to know whether localization has failed or not itself.
+<details>
+  <summary>Abstract</summary>
+   Almost all modules used for autonomous navigation rely on localization results. Hence, localization failures might result in autonomous navigation failures as well. To guarantee safety of the autonomous navigation, we are focusing on how to detect the localization failures automatically. In this talk, I present probabilistic modeling methods to estimate reliability of the localization result and to recognize misalignment between sensor measurements and map. These methods enable a robot to know whether localization has failed or not itself.
+</details>
 
-<img src="people/niai.jpg" alt="Naoki Akai" width="100"/>
-
-**About** Naoki Akai received his B.S., M.S., and Ph.D degrees in Mechanical Engineering from Utsunomiya University, Japan, in 2012, 2013, and 2016, respectively. In 2016, he moved to Nagoya University. Since 2020, he has been an Assistant Professor at the Graduate School of Engineering, Nagoya University. His current research interests include localization, perception, and intelligent systems for autonomous  mobile robots, cars, and aerial robots. He is also interested in applying topological techniques to robotics applications.
-
+<details>
+  <summary>About</summary> Naoki Akai received his B.S., M.S., and Ph.D degrees in Mechanical Engineering from Utsunomiya University, Japan, in 2012, 2013, and 2016, respectively. In 2016, he moved to Nagoya University. Since 2020, he has been an Assistant Professor at the Graduate School of Engineering, Nagoya University. His current research interests include localization, perception, and intelligent systems for autonomous  mobile robots, cars, and aerial robots. He is also interested in applying topological techniques to robotics applications.
+</details>
 #### Magnus Lindhé - Electrolux Home Care & Small Domestic Appliances, Stockholm, Sweden
-**Title** A consumer robot perspective on map quality
-
-**Abstract** The Electrolux Pure i9 series of robotic vacuum cleaners was launched in 2017 and we now have more than 100 000 connected robots globally. I will briefly introduce the 3D laser scanner on the robot, and the map format that the robots use to report every cleaning session to our cloud servers. I will then outline some current challenges that we see in map quality assessment, both from the perspective of the user impression as well as what the robot needs. Finally, I will comment on how map standardization could be useful for our application.
-
 <img src="people/male.jpg" alt="Magnus Lindhé" width="100"/>
 
-**About** Magnus Lindhé got his PhD in automatic control, applied to robotics, from the KTH Royal Institute of Technology in 2012. Since then, he has worked at Electrolux in Stockholm, with navigation and planning for robotic vacuum cleaners. He was recently appointed manager of the advanced development team in robotics, which is now recruiting for a specialist in computer vision and/or machine learning.
+**Title** A consumer robot perspective on map quality
+<details>
+  <summary>Abstract</summary> The Electrolux Pure i9 series of robotic vacuum cleaners was launched in 2017 and we now have more than 100 000 connected robots globally. I will briefly introduce the 3D laser scanner on the robot, and the map format that the robots use to report every cleaning session to our cloud servers. I will then outline some current challenges that we see in map quality assessment, both from the perspective of the user impression as well as what the robot needs. Finally, I will comment on how map standardization could be useful for our application.
+</details>
+
+<details>
+  <summary>About</summary> Magnus Lindhé got his PhD in automatic control, applied to robotics, from the KTH Royal Institute of Technology in 2012. Since then, he has worked at Electrolux in Stockholm, with navigation and planning for robotic vacuum cleaners. He was recently appointed manager of the advanced development team in robotics, which is now recruiting for a specialist in computer vision and/or machine learning.
+</details>
 
 #### Francesco Amigoni - AIRLab, Politecnico di Milano, Milan, Italy
-**Title** Standardizing robot map representations
-
-**Abstract** The availability of maps of environments in which they operate enables several tasks for autonomous robots. The IEEE Robotics and Automation Society has published a standard, called IEEE 1873-2015 Robot Map Data Representation for Navigation, that defines a common representation for 2D robot maps intended to facilitate interoperability among navigating robots. The standard is being currently extended to represent 3D maps.
-The talk will survey these efforts, and those from other standard development organizations, in order to provide a picture of the current standardization activities relative to representations of robot maps.
 
 <img src="people/foai.jpg" alt="Francesco Amigoni" width="100"/>
 
-**About** Francesco Amigoni is professor at Politecnico di Milano (Italy), where he had previously been assistant professor and associate professor. He has been vice-chair of the Standard Working Group that developed the IEEE 1873-2015 Standard for Robot Map Data Representation for Navigation and he he is now chair of the Standard Working Group that is developing an extension of the standard to 3D maps. His main research interests are in Autonomous Robotics (multirobot systems, mapping, anomaly detection) and in Artificial Intelligence (multiagent systems, distributed decision making, and distributed optimization).
+**Title** Standardizing robot map representations
 
+<details>
+  <summary>Abstract</summary> The availability of maps of environments in which they operate enables several tasks for autonomous robots. The IEEE Robotics and Automation Society has published a standard, called IEEE 1873-2015 Robot Map Data Representation for Navigation, that defines a common representation for 2D robot maps intended to facilitate interoperability among navigating robots. The standard is being currently extended to represent 3D maps.
+The talk will survey these efforts, and those from other standard development organizations, in order to provide a picture of the current standardization activities relative to representations of robot maps.
+</details>
+
+<details>
+  <summary> About </summary> Francesco Amigoni is professor at Politecnico di Milano (Italy), where he had previously been assistant professor and associate professor. He has been vice-chair of the Standard Working Group that developed the IEEE 1873-2015 Standard for Robot Map Data Representation for Navigation and he he is now chair of the Standard Working Group that is developing an extension of the standard to 3D maps. His main research interests are in Autonomous Robotics (multirobot systems, mapping, anomaly detection) and in Artificial Intelligence (multiagent systems, distributed decision making, and distributed optimization).
+</details>
 
 
 #### Mirco Colosi - Robert Bosch GmbH, Stuttgart, Germany
-**Title** Standardizing SLAM: exploiting recurrent patterns for modularity and behavioral robustness
-
-**Abstract** Robots have become present in our everyday life. Robotic vacuum cleaners and lawnmowers take care of our homes, self-driving cars provide personal mobility in radically new ways, collaborative production assistants work side-by-side with humans in modern factories, and last-mile delivery platforms transport goods to their destination in intralogistics and urban spaces. These and many other applications have in common the need for an internal representation of the surrounding environment and require knowing the pose of the robot within this environment. In view of this, researchers during last decades invested substantial effort in finding solutions to this problem, converging in a field named SLAM. In last years, the evolution of this field brought major breakthroughs that lead to structural changes in the core algorithms and the way the SLAM problem was framed. This dynamic evolution made it difficult to find a unified SLAM formulation that generalizes the different research lines pursued by various research laboratories around the world. However, nowadays the field reached a certain plateau, where all the state-of-the-art SLAM systems converged towards a graph-based formulation. We believe that it is time for standardization in SLAM and propose a unification approach that defines generalized SLAM interfaces, allowing for fast prototyping thanks to the interchangeability of the basic components developed from different authors. In addition to the architecture, we address the behavioral aspect of SLAM that plays an important role in the robustness of the system. Reasoning on a higher level of abstraction, above the mere geometric one, is key in robustly handling unforeseen events. In our approach, we create a behavioral control layer on top of a regular SLAM system, which guides the evolution of the SLAM system deciding the best task to accomplish according to external events, such as robot being lost, able to localize, and so on.
-In this talk, we address these problems by proposing a novel approaches and improvements, derived from a careful analysis of the state-of-the-art, spotting, and avoiding their weaknesses while investigating how to combine their strengths. We developed a standardized architecture for multi-sensor SLAM system able to cope with arbitrary robot setups, providing also two fully configurable and working pipelines, and a behavioral controller for SLAM systems, capable of handling unforeseen events, choosing the best next action to accomplish when needed.
-These contributions further advance SLAM towards a mature research field as they provide a generalized view of the problem formulation and system designs. They also have a significant practical impact. Unlike state-of-the-art systems, the considered modal aspects of SLAM are shown to play a key role in robustly dealing with situations that robots face when deployed autonomously in open-world environments.
 
 <img src="people/moci.png" alt="Mirco Colosi" width="100"/>
 
-**About** Mirco Colosi is a Research Scientist at Robert Bosch GmbH in the department of Mapping, Localization and Navigation (CR/AAS3). He received his Ph.D. in Engineering in Computer Science from Sapienza University of Rome in collaboration with Robert Bosch GmbH under the co-supervision of Prof. Giorgio Grisetti (Sapienza) and Dr. Kai O. Arras (Bosch). During the studies, he covered the architectural and behavioral aspects of modern SLAM systems. His main research focus is Mobile Robotics, spanning the navigation stack, from control to mapping and localization.
+**Title** Standardizing SLAM: exploiting recurrent patterns for modularity and behavioral robustness
 
+<details>
+  <summary>Abstract</summary> Robots have become present in our everyday life. Robotic vacuum cleaners and lawnmowers take care of our homes, self-driving cars provide personal mobility in radically new ways, collaborative production assistants work side-by-side with humans in modern factories, and last-mile delivery platforms transport goods to their destination in intralogistics and urban spaces. These and many other applications have in common the need for an internal representation of the surrounding environment and require knowing the pose of the robot within this environment. In view of this, researchers during last decades invested substantial effort in finding solutions to this problem, converging in a field named SLAM. In last years, the evolution of this field brought major breakthroughs that lead to structural changes in the core algorithms and the way the SLAM problem was framed. This dynamic evolution made it difficult to find a unified SLAM formulation that generalizes the different research lines pursued by various research laboratories around the world. However, nowadays the field reached a certain plateau, where all the state-of-the-art SLAM systems converged towards a graph-based formulation. We believe that it is time for standardization in SLAM and propose a unification approach that defines generalized SLAM interfaces, allowing for fast prototyping thanks to the interchangeability of the basic components developed from different authors. In addition to the architecture, we address the behavioral aspect of SLAM that plays an important role in the robustness of the system. Reasoning on a higher level of abstraction, above the mere geometric one, is key in robustly handling unforeseen events. In our approach, we create a behavioral control layer on top of a regular SLAM system, which guides the evolution of the SLAM system deciding the best task to accomplish according to external events, such as robot being lost, able to localize, and so on.
+In this talk, we address these problems by proposing a novel approaches and improvements, derived from a careful analysis of the state-of-the-art, spotting, and avoiding their weaknesses while investigating how to combine their strengths. We developed a standardized architecture for multi-sensor SLAM system able to cope with arbitrary robot setups, providing also two fully configurable and working pipelines, and a behavioral controller for SLAM systems, capable of handling unforeseen events, choosing the best next action to accomplish when needed.
+These contributions further advance SLAM towards a mature research field as they provide a generalized view of the problem formulation and system designs. They also have a significant practical impact. Unlike state-of-the-art systems, the considered modal aspects of SLAM are shown to play a key role in robustly dealing with situations that robots face when deployed autonomously in open-world environments.
+</details>
+
+<details>
+  <summary> About </summary> Mirco Colosi is a Research Scientist at Robert Bosch GmbH in the department of Mapping, Localization and Navigation (CR/AAS3). He received his Ph.D. in Engineering in Computer Science from Sapienza University of Rome in collaboration with Robert Bosch GmbH under the co-supervision of Prof. Giorgio Grisetti (Sapienza) and Dr. Kai O. Arras (Bosch). During the studies, he covered the architectural and behavioral aspects of modern SLAM systems. His main research focus is Mobile Robotics, spanning the navigation stack, from control to mapping and localization.
+</details>
 ### World Café
 
 #### Discussion Topics
