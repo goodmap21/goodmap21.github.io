@@ -38,7 +38,7 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 |16:00|15:00|22:00|09:00|	World cafe|
 |17:00|16:00|23:00|10:00|	Wrap up|
 
-
+----
 ### Invited Speakers
 
 #### Giorgio Grisetti - RoCoCo lab, Sapienza University of Rome, Italy
@@ -154,6 +154,9 @@ These contributions further advance SLAM towards a mature research field as they
 <details>
   <summary> About </summary> Mirco Colosi is a Research Scientist at Robert Bosch GmbH in the department of Mapping, Localization and Navigation (CR/AAS3). He received his Ph.D. in Engineering in Computer Science from Sapienza University of Rome in collaboration with Robert Bosch GmbH under the co-supervision of Prof. Giorgio Grisetti (Sapienza) and Dr. Kai O. Arras (Bosch). During the studies, he covered the architectural and behavioral aspects of modern SLAM systems. His main research focus is Mobile Robotics, spanning the navigation stack, from control to mapping and localization.
 </details>
+
+----
+
 ### World Café
 
 #### Discussion Topics
@@ -175,11 +178,12 @@ These contributions further advance SLAM towards a mature research field as they
 
 **Submission Link**: [https://easychair.org/conferences/?conf=goodmap2021](https://easychair.org/conferences/?conf=goodmap2021)
 
+----
 ### Call
 Maps are fundamental for the operation of most, if not all, mobile robotic systems. Even though it is a young field compared to other branches of science and technology, robotic mapping has undergone great developments. However, despite the importance of robotic maps, there is no consensus regarding what defines a good map, nor is there a common way to exchange maps between different manufacturers’ robotic platforms. These shortcomings hamper the development of the field of mapping for mobile robots as well as other fields that depend on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics is no exception. Thus standardisation and assessment -- qualitative and, especially, quantitative -- of maps are of paramount importance.
 
 We warmly welcome contributions of papers targeting the workshop's scope, which includes but is not limited to the following topics:
-
+----
 ### Topics of Interest
 
 In this workshop, we will address the following (non-exhaustive) list of topics:
@@ -195,6 +199,8 @@ In this workshop, we will address the following (non-exhaustive) list of topics:
 * Trustworthy AI and Standardisation
 * Groundtruth Generation for Map Quality Assessment
 * Map Standardisation in Industrial Applications
+
+----
 
 ### Information for Authors
 - All submissions will be reviewed (single-blind) by the program committee.
