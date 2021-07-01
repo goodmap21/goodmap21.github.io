@@ -3,8 +3,6 @@ layout: default
 ---
 # How good is your map?
 
-Maps are fundamental for the operation of most, if not all, mobile robotic systems. Even though it is a young field compared to other branches of science and technology, robotic mapping has undergone great developments. However, despite the importance of robotic maps, there is no consensus regarding what defines a good map, nor is there a common way to exchange maps between different manufacturers’ robotic platforms. These shortcomings hamper the development of the field of mapping for mobile robots as well as other fields that depend on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics is no exception. Thus standardisation and assessment -- qualitative and, especially, quantitative -- of maps are of paramount importance.
-
 ## About
 
 Compared to other branches of science and technology, robotics is relatively young. The field as we know it emerged somewhere around the early 1950s. Robotic mapping is even younger, and its history starts around the early 1980s. Despite its short history, robotic mapping has undergone great developments. Nowadays, robotic maps are fundamental for the operation of the majority, if not all, mobile robotic systems. However, despite the importance of the robotic maps, there is no common way to exchange the maps between different manufacturers' robotic platforms, neither there is a consensus regarding what defines a good map. Such a state of the field hampers the development of the field itself and fields depending on it. Developments in engineering usually come when common ways are established to define concepts and components and to measure the performance of such systems and components. Robotics makes no exception. Thus standardisation and assessment (qualitative and, especially, quantitative) of maps are of paramount importance.
@@ -20,6 +18,8 @@ Considering the importance of the topic as well as its relative obscurity, we ai
 
 ## Workshop Format
 ### Program
+WHEN: 2021-08-31
+WHERE: https://gather.town/app/yMxITlVsMIVtNDpx/goodmap2021
 
 |EEST |CEST |	JST |	EDT |                |
 |Helsinki|Stockholm|Tokyo| Cambridge     |             |
@@ -172,7 +172,7 @@ During this workshop the participants will be split into four equal groups and e
 
 #### Outcome
 
-We want that this workshop in general and the discussion in particular to impact the broader robotic community. To achieve this, we have decided to write a white/position paper outlining the importance of the map standardization and quality assessment in robotics. The planed paper will also contain the list of open research questions related to the problems discussed during this workshop. 
+We want that this workshop in general and the discussion in particular to impact the broader robotic community. To achieve this, we have decided to write a white/position paper outlining the importance of the map standardization and quality assessment in robotics. The planed paper will also contain the list of open research questions related to the problems discussed during this workshop.
 
 ## Call for Papers/Posters
 
