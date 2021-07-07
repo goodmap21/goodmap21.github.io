@@ -25,8 +25,8 @@ WHERE: https://gather.town/app/yMxITlVsMIVtNDpx/goodmap2021
 |Helsinki|Stockholm|Tokyo| Cambridge     |             |
 |:---:|:---:|:---:|:---:|:-------------------|
 |10:00|09:00|16:00|03:00|	Opening            |
-|10:30|09:30|16:30|03:30|	Naoki Akai         |
-|11:00|10:00|17:00|04:00|	Giorgio Grisetti   |
+|10:30|09:30|16:30|03:30|	Giorgio Grisetti    |
+|11:00|10:00|17:00|04:00|	Naoki Akai   |
 |11:30|10:30|17:30|04:30|	Coffe Break/ Poster session   |
 |12:00|11:00|18:00|05:00|	Max Pfingsthorn|
 |12:30|11:30|18:30|05:30|	Magnus Lindhé|
@@ -42,16 +42,20 @@ WHERE: https://gather.town/app/yMxITlVsMIVtNDpx/goodmap2021
 ### Invited Speakers
 
 #### Giorgio Grisetti - RoCoCo lab, Sapienza University of Rome, Italy
-**Title** TBD
+<img src="people/gogi.jpg" alt="Giorgio Grisetti" width="100"/>
+
+**Title** SLAM: what still bugs me.
 
 <details>
   <summary>Abstract</summary>
-  TBD
+  Since a few years SLAM systems came out of academia and empower several mobile robot applications. Whereas this is good enough, we believe that a significant effort in the life of a robotic system is spent in requiring maps and data of the same environments. In particular, this is typically done each time the sensor setting or environment conditions change. In these situations it is common to reacquire a new map.
+
+  This is in contrast with the requirements of most SLAM users, that in general need just an up-to-date map suitable for their purposes with the least possible effort.  Seeing SLAM as a service, instead of as a "task" to be done by the robot would significantly lessen the computation required on-board by the robotic system, enhance flexibility and reduce the setup time. Instead of providing solutions, this talk aims at opening a discussion on potential SLAM infrastructures supporting heterogeneous robots.
   </details>
 
 <details>
   <summary>About</summary>
-  TBD
+  Giorgio Grisetti is associate professor at Sapienza University of Rome. He is member of the RoCoCo lab at La Sapienza since November 2010. He is also member of the Autonomous Intelligent Systems Lab. at Freiburg University headed by Wolfram Burgard where he worked as a Post Doc since 2006. His research interests lie in the areas of mobile robotics. His previous and current works aimes to provide effective solutions to mobile robot navigation in all its aspects: SLAM, localization and path planning. He was a PhD student at University of Rome "La Sapienza" in the Intelligent Systems Lab. His advisor was Daniele Nardi and he received his PhD degree in April 2006. His PhD thesis focused on SLAM using Rao-Blackwellized particle filters. In 2001, he received his M.Sc. degree in computer engineering, at the University of Rome
   </details>
 
 
@@ -147,7 +151,9 @@ The talk will survey these efforts, and those from other standard development or
 
 <details>
   <summary>Abstract</summary> Robots have become present in our everyday life. Robotic vacuum cleaners and lawnmowers take care of our homes, self-driving cars provide personal mobility in radically new ways, collaborative production assistants work side-by-side with humans in modern factories, and last-mile delivery platforms transport goods to their destination in intralogistics and urban spaces. These and many other applications have in common the need for an internal representation of the surrounding environment and require knowing the pose of the robot within this environment. In view of this, researchers during last decades invested substantial effort in finding solutions to this problem, converging in a field named SLAM. In last years, the evolution of this field brought major breakthroughs that lead to structural changes in the core algorithms and the way the SLAM problem was framed. This dynamic evolution made it difficult to find a unified SLAM formulation that generalizes the different research lines pursued by various research laboratories around the world. However, nowadays the field reached a certain plateau, where all the state-of-the-art SLAM systems converged towards a graph-based formulation. We believe that it is time for standardization in SLAM and propose a unification approach that defines generalized SLAM interfaces, allowing for fast prototyping thanks to the interchangeability of the basic components developed from different authors. In addition to the architecture, we address the behavioral aspect of SLAM that plays an important role in the robustness of the system. Reasoning on a higher level of abstraction, above the mere geometric one, is key in robustly handling unforeseen events. In our approach, we create a behavioral control layer on top of a regular SLAM system, which guides the evolution of the SLAM system deciding the best task to accomplish according to external events, such as robot being lost, able to localize, and so on.
+
 In this talk, we address these problems by proposing a novel approaches and improvements, derived from a careful analysis of the state-of-the-art, spotting, and avoiding their weaknesses while investigating how to combine their strengths. We developed a standardized architecture for multi-sensor SLAM system able to cope with arbitrary robot setups, providing also two fully configurable and working pipelines, and a behavioral controller for SLAM systems, capable of handling unforeseen events, choosing the best next action to accomplish when needed.
+
 These contributions further advance SLAM towards a mature research field as they provide a generalized view of the problem formulation and system designs. They also have a significant practical impact. Unlike state-of-the-art systems, the considered modal aspects of SLAM are shown to play a key role in robustly dealing with situations that robots face when deployed autonomously in open-world environments.
 </details>
 
