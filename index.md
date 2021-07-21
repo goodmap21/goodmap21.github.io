@@ -26,10 +26,10 @@ WHERE: https://gather.town/app/yMxITlVsMIVtNDpx/goodmap2021
 |:---:|:---:|:---:|:---:|:-------------------|
 |10:00|09:00|16:00|03:00|	Opening            |
 |10:30|09:30|16:30|03:30|	Giorgio Grisetti    |
-|11:00|10:00|17:00|04:00|	Naoki Akai   |
+|11:00|10:00|17:00|04:00|	Magnus Lindhé   |
 |11:30|10:30|17:30|04:30|	Coffe Break/ Poster session   |
 |12:00|11:00|18:00|05:00|	Max Pfingsthorn|
-|12:30|11:30|18:30|05:30|	Magnus Lindhé|
+|12:30|11:30|18:30|05:30|	Naoki Akai |
 |13:00|12:00|19:00|06:00| Lunch/ Poster Session |
 |14:00|13:00|20:00|07:00|	Francesco Amigoni |
 |14:30|13:30|20:30|07:30|	Mirco Colosi|
