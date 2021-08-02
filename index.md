@@ -99,7 +99,9 @@ In this talk I will describe two research lines in my group to address these cha
 
 <details>
   <summary>Abstract</summary>
-  TBD
+  Problem of map building has received a substantial amount of attention over past 37 years. That includes rapid development of SLAM algorithms as well as other methods. However, in practice even the most advanced algorithms still requires expert to supervise the mapping process and assess the final product. Such practice substantially limits the mapping capabilities of robotic system and increases the deployment costs. The limited supervision is only present in non-critical robotic setups. Thus to truly assure robotic autonomy it is necessary to enable robotic platforms to autonomously and automatically monitor the quality of the collected data as well as the quality of the resulting model.
+
+In my talk I will discus different indicators of good map and ways to measure them. I will also disuse the impact of map quality on the navigation, task planning and motion planning. I will conclude the talk with possible solutions for these problems.
   </details>
 
 <details>
