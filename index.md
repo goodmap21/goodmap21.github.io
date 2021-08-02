@@ -74,16 +74,20 @@ WHERE: https://gather.town/app/yMxITlVsMIVtNDpx/goodmap2021
    Luca Carlone is the Leonardo Career Development Assistant Professor in the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology, and a Principal Investigator in the Laboratory for Information & Decision Systems (LIDS). He received his PhD from the Polytechnic University of Turin in 2012. He joined LIDS as a postdoctoral associate (2015) and later as a Research Scientist (2016), after spending two years as a postdoctoral fellow at the Georgia Institute of Technology (2013-2015). His research interests include nonlinear estimation, numerical and distributed optimization, and probabilistic inference, applied to sensing, perception, and decision-making in single and multi-robot systems. His work includes seminal results on certifiably correct algorithms for localization and mapping, as well as approaches for visual-inertial navigation and distributed mapping. He is a recipient of the Best Paper Award in Robot Vision at ICRA’20, the 2020 Honorable Mention from the IEEE Robotics and Automation Letters, the Track Best Paper award at the 2021 IEEE Aerospace Conference, the 2017 Transactions on Robotics King-Sun Fu Memorial Best Paper Award, the Best Paper Award at WAFR’16, the Best Student Paper Award at the 2018 Symposium on VLSI Circuits, and he was best paper finalist at RSS’15. He is also a recipient of the NSF CAREER Award (2021), the RSS Early Career Award (2020), the Google Daydream (2019) and the Amazon Research Award (2020), and the MIT AeroAstro Vickie Kerrebrock Faculty Award (2020). At MIT, he teaches “Robotics: Science and Systems,” the introduction to robotics for MIT undergraduates, and he created the graduate-level course “Visual Navigation for Autonomous Vehicles”, which covers mathematical foundations and fast C++ implementations of spatial perception algorithms for drones and autonomous vehicles.
 </details>
 #### Max Pfingsthorn - OFFIS Institute for Information Technology, Oldenburg, Germany
-**Title** TBD
+<img src="people/mxpo.jpg" alt="Max Pfingsthorn" width="100"/>
+
+**Title** Can we make more accurate and actionable semantic maps with human and tactile input?
 
 <details>
   <summary>Abstract</summary>
-  TBD
+  Current SLAM systems are evolving rapidly: Novel systems are faster, can manage larger maps, estimate semantic information, can be used in an end-to-end learning regime, and are increasingly robust to outliers. However, crucial training data, e.g. for semantic SLAM, are often missing for operational environments of modern robotic systems. This problem exists in environments from ad-hoc machine tending tasks with novel workpieces to search-and-rescue and underwater settings.
+In my understanding, useful semantic SLAM can be thought of as building a sensor-driven world model, up to the point where it can be used for simulation and encoding complex tasks/goals. The challenge is to achieve not only a highly accurate segmented 3D reconstruction, but also a) estimate full 3D shape of objects, b) estimate non-visual properties of objects (e.g. mass, friction), and c) do all this in a novel environment with novel objects.
+In this talk I will describe two research lines in my group to address these challenges. One focuses on tactile exploration to learn about objects interactively and construct symbolic knowledge while the other focuses on transferring human knowledge through 3D interactions to a perception system.
   </details>
 
 <details>
   <summary>About</summary>
-  TBD
+  Max Pfingsthorn is a principal scientist and leads the "Smart Human-Robot Collaboration" research group in the R&D Division Manufacturing at the OFFIS Institute for Information Technology in Oldenburg, Germany. He received his PhD with distinction from Jacobs University Bremen in 2014 focusing on robust (fault-tolerant) simultaneous localization and mapping for single robots and robot teams. He received his Masters in AI and Bachelors in EECS from University of Amsterdam and Jacobs University, respectively. He leads multiple research and transfer projects on regional, national, and European levels. Max is most excited about linking robots and humans on a cognitive level (especially regarding semantic environment and task models) and making people more productive with robot hardware that is available today.
   </details>
 
 
