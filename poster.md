@@ -24,7 +24,7 @@ The discussions will take place in the Cafe room.
 During the breaks you are most welcome to roam around and interact with each other.
 The closing remarks and discussion summary will take place in the Talks room.
 
-EEST |CEST |	JST |	EDT |                |
+|EEST |CEST |	JST |	EDT |                |
 |Helsinki|Stockholm|Tokyo| Cambridge,MA     |             |
 |:---:|:---:|:---:|:---:|:-------------------|
 |10:00|09:00|16:00|03:00|	Opening            |
