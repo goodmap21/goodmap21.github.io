@@ -22,7 +22,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p class="view">When: {{ site.when | default: "TBD" }}</p>
-        <p class="view">Where: {{ site.where | default: "TBD" }}</p>
+        <p class="view">Where: <a href="{{ site.where | "/" }}">{{ site.where | default: "TBD" }}</p>
         <p>
         {% include toc.html html=content h_max=3 h_min=2%}
         </p>
