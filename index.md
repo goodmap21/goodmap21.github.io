@@ -22,7 +22,7 @@ WHEN: 2021-08-31
 WHERE: https://gather.town/app/yMxITlVsMIVtNDpx/goodmap2021
 
 |EEST |CEST |	JST |	EDT |                |
-|Helsinki|Stockholm|Tokyo| Cambridge     |             |
+|Helsinki|Stockholm|Tokyo| Cambridge,MA     |             |
 |:---:|:---:|:---:|:---:|:-------------------|
 |10:00|09:00|16:00|03:00|	Opening            |
 |10:30|09:30|16:30|03:30|	Giorgio Grisetti    |
